@@ -1,4 +1,7 @@
-theme: jekyll-theme-leap-day
-show_downloads: true
 title: SAUSG_FAQ
 description: SAUSG系列软件常见问题解答
+show_downloads: false
+show_links: true
+google_analytics:
+theme: jekyll-theme-leap-day
+show_downloads: true
