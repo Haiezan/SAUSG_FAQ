@@ -4,4 +4,3 @@ show_downloads: false
 show_links: true
 google_analytics:
 theme: jekyll-theme-leap-day
-show_downloads: true
