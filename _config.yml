@@ -4,3 +4,5 @@ show_downloads: false
 show_links: true
 google_analytics:
 theme: jekyll-theme-leap-day
+# Baidu Analytics
+ba_track_id: acbf6d2c915cb89245006e0d89b37cc4
